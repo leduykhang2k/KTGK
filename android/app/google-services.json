@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "343915317860",
+    "project_id": "middlesql",
+    "storage_bucket": "middlesql.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:343915317860:android:b2c91fc23d6e2fdb436d71",
+        "android_client_info": {
+          "package_name": "com.anonymous.labgiuaki"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3VdOd7ag1y_cTmgloTnG9H6Hu1JRycAw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
